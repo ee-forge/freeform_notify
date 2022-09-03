@@ -25,7 +25,7 @@
                     <th><?=lang('form');?></th>
                     <th><?=lang('notify');?></th>
                     <th><?=lang('message');?></th>
-                    <th><?=lang('status');?></th>
+                    <th><?=lang('enabled');?></th>
                 </tr>
                 </thead>
                 <tbody>

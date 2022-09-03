@@ -1,6 +1,6 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
- * Freeform SMS Extension Class for ExpressionEngine 2
+ * Freeform Notify Extension Class for ExpressionEngine 6
  *
  * @package     ExpressionEngine
  * @subpackage  Freeform Notify
